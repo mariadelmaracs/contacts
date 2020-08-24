@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="hint_nombre_completo">Nombre Completo</string>
+    <string name="hint_date_picker">Fecha de Nacimiento</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion_contacto">Descripción del Contacto</string>
+    <string name="button_text">SIGUIENTE</string>
+    <string name="empty_error">El campo está vacío</string>
+    <string name="confirmar_datos_text">Confirmar Datos</string>
+    <string name="btn_editar_datos">EDITAR DATOS</string>
+    <string name="p_nombre_completo">Nombre Completo</string>
+    <string name="p_fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="p_telefono">Telefono</string>
+    <string name="p_email">Email</string>
+    <string name="p_descripcion_contacto">Descripcion del Contacto</string>
+</resources>
